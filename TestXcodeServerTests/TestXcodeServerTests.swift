@@ -14,4 +14,8 @@ class TestXcodeServerTests: XCTestCase {
     func testExample() {
         XCTAssert(true)
     }
+    
+    func testIntegration() {
+        XCTAssert(true)
+    }
 }
